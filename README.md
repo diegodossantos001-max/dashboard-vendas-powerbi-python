@@ -1,5 +1,7 @@
 # Dashboard de Vendas com Python e Power BI
 
+![Dashboard de Vendas](imagens/print_dashboard.png)
+
 Este projeto foi desenvolvido com o objetivo de demonstrar conhecimentos básicos em análise de dados, tratamento de dados com Python, criação de relatórios no Power BI e versionamento com Git/GitHub.
 
 ## Objetivo do projeto
@@ -45,7 +47,7 @@ dashboard-vendas-powerbi-python/
 ├── README.md
 └── requirements.txt
 
-Etapas realizadas
+## Etapas realizadas
 1. Criação da base de dados
 
 Foi utilizada uma base de dados simulada contendo informações de vendas, como data da venda, vendedor, produto, categoria, cidade, estado, quantidade, preço unitário e forma de pagamento.
@@ -93,14 +95,16 @@ Faturamento por produto
 Ranking de vendedores
 Faturamento por forma de pagamento
 Filtros por cidade, categoria, forma de pagamento e vendedor
-Dashboard
 
-Medidas DAX utilizadas
+## Medidas DAX utilizadas
+
 Faturamento Total = SUM(vendas_tratadas[faturamento])
 Quantidade Vendida = SUM(vendas_tratadas[quantidade])
 Total de Vendas = COUNT(vendas_tratadas[id_venda])
 Ticket Médio = DIVIDE([Faturamento Total], [Total de Vendas])
-Como executar o projeto
+
+## Como executar o projeto
+
 Clone o repositório:
 git clone https://github.com/diegodossantos001-max/dashboard-vendas-powerbi-python.git
 Acesse a pasta do projeto:
@@ -111,7 +115,8 @@ Execute o notebook:
 notebooks/tratamento_dados.ipynb
 Abra o arquivo do Power BI:
 powerbi/dashboard_vendas.pbix
-Conclusão
+
+## Conclusão
 
 Este projeto demonstra conhecimentos iniciais em análise de dados, tratamento de dados com Python, criação de indicadores no Power BI e versionamento de projeto com Git/GitHub.
 
