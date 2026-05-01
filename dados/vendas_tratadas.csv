@@ -1,0 +1,11 @@
+﻿id_venda;data_venda;vendedor;produto;categoria;cidade;estado;quantidade;preco_unitario;forma_pagamento;ano;mes;nome_mes;faturamento
+1;2025-01-05;Ana Souza;Notebook;Eletrônicos;São Paulo;SP;1;3500;Cartão De Crédito;2025;1;Janeiro;3500
+2;2025-01-08;Carlos Lima;Mouse;Periféricos;Rio De Janeiro;RJ;2;80;Pix;2025;1;Janeiro;160
+3;2025-01-15;Ana Souza;Teclado;Periféricos;São Paulo;SP;1;150;Boleto;2025;1;Janeiro;150
+4;2025-02-02;Mariana Costa;Monitor;Eletrônicos;Belo Horizonte;MG;1;900;Cartão De Crédito;2025;2;Fevereiro;900
+5;2025-02-10;João Pedro;Notebook;Eletrônicos;Curitiba;PR;1;3600;Pix;2025;2;Fevereiro;3600
+6;2025-02-18;Carlos Lima;Headset;Periféricos;Rio De Janeiro;RJ;3;120;Cartão De Débito;2025;2;Fevereiro;360
+7;2025-03-03;Ana Souza;Mouse;Periféricos;São Paulo;SP;4;75;Pix;2025;3;Março;300
+8;2025-03-11;Mariana Costa;Monitor;Eletrônicos;Belo Horizonte;MG;2;950;Cartão De Crédito;2025;3;Março;1900
+9;2025-03-19;João Pedro;Teclado;Periféricos;Curitiba;PR;2;140;Boleto;2025;3;Março;280
+10;2025-04-01;Carlos Lima;Notebook;Eletrônicos;Rio De Janeiro;RJ;1;3550;Pix;2025;4;Abril;3550
