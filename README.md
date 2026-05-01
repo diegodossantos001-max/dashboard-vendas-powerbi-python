@@ -46,6 +46,7 @@ dashboard-vendas-powerbi-python/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## Etapas realizadas
 1. Criação da base de dados
