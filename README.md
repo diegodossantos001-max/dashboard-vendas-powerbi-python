@@ -102,7 +102,7 @@ Total de Vendas = COUNT(vendas_tratadas[id_venda])
 Ticket Médio = DIVIDE([Faturamento Total], [Total de Vendas])
 Como executar o projeto
 Clone o repositório:
-git clone https://github.com/seuusuario/dashboard-vendas-powerbi-python.git
+git clone https://github.com/diegodossantos001-max/dashboard-vendas-powerbi-python.git
 Acesse a pasta do projeto:
 cd dashboard-vendas-powerbi-python
 Instale as dependências:
